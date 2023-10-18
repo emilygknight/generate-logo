@@ -20,6 +20,9 @@ displays your logo!
 
 ## Video
 
+- https://drive.google.com/file/d/117NJya2aa4IxW5Ku735NQgPbYnRJkrtJ/view
+
+
 ## Screenshots
 
 ![Image 10-17-23 at 10 14 PM](https://github.com/emilygknight/generate-logo/assets/138501781/af2957a0-2476-4fdb-a3ee-eb51f14a6d88)
